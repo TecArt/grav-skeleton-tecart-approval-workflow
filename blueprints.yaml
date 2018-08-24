@@ -1,0 +1,14 @@
+name: TecArt Approval Workflow
+version: 0.1.0
+description: "TecArt Approval Workflow"
+icon: calendar-check
+author:
+ name: Sören Müller
+ email: soeren.mueller@tecart.de
+ url: http://www.tecart.de
+homepage: https://github.com/TecArt/grav-skeleton-tecart-approval-workflow
+docs: https://github.com/TecArt/grav-skeleton-tecart-approval-workflow
+keywords: TecArt, CRM, Approval, Workflow, GitSync, Jira, Bitbucket, Atlassian, Review, two-man-rule
+bugs: https://github.com/TecArt/grav-skeleton-tecart-approval-workflow/issues
+license: MIT
+
