@@ -1,0 +1,63 @@
+git:
+    admin:
+        url: https://github.com/TecArt/grav-plugin-admin.git
+        path: user/plugins/admin
+        branch: master
+    admin-addon-user-manager:
+        url: https://github.com/david-szabo97/grav-plugin-admin-addon-user-manager
+        path: user/plugins/admin-addon-user-manager
+        branch: master
+    blackhole:
+        url: https://github.com/BarryMode/grav-plugin-blackhole
+        path: user/plugins/blackhole
+        branch: master
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
+        branch: master
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: master
+    login:
+        url: https://github.com/getgrav/grav-plugin-login
+        path: user/plugins/login
+        branch: master
+    markdown-fontawesome:
+        url: https://github.com/yoshikin/grav-plugin-markdown-fontawesome
+        path: user/plugins/markdown-fontawesome
+        branch: master
+    minify-html:
+        url: https://github.com/jimblue/grav-plugin-minify-html
+        path: user/plugins/minify-html
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    sitemap:
+        url: https://github.com/getgrav/grav-plugin-sitemap
+        path: user/plugins/sitemap
+        branch: master
+    tecart-git-sync:
+        url: https://github.com/TecArt/grav-plugin-git-sync.git
+        path: user/plugins/git-sync
+        branch: master
+    tecart-jira-connector:
+        url: https://github.com/TecArt/grav-plugin-tecart-jira-connector.git
+        path: user/plugins/tecart-jira-connector
+        branch: master
+    tecart-review-workflow:
+        url: https://github.com/TecArt/grav-plugin-tecart-review-workflow.git
+        path: user/plugins/tecart-review-workflow
+        branch: master
+    quark:
+        url: https://github.com/TecArt/grav-theme-quark-tecart-approval-workflow.git
+        path: user/themes/quark
+        branch: master
+
+
